@@ -184,3 +184,21 @@ Buatlah program sederhana dengan ketentuan:
 
     if __name__ == "__main__":
         main()
+
+# Hasil Output 
+![image](https://github.com/user-attachments/assets/c605c16e-a3fd-49b1-8970-3dd8a99be71d)
+![image](https://github.com/user-attachments/assets/056b828b-477e-4205-a1f2-33e49afbb3f3)
+![image](https://github.com/user-attachments/assets/1cf87c56-0e7d-4b3b-8570-c559045e5002)
+![image](https://github.com/user-attachments/assets/bddcf5f5-cb0b-4d6b-a527-987073b81b13)
+![image](https://github.com/user-attachments/assets/6a349627-beff-439c-ba21-f4606496f036)
+
+# Penjelasan 
+
+
+
+
+
+
+
+
+
