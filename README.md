@@ -193,8 +193,11 @@ Buatlah program sederhana dengan ketentuan:
 ![image](https://github.com/user-attachments/assets/6a349627-beff-439c-ba21-f4606496f036)
 
 # Penjelasan 
-
-
+Kode di atas telah menggunakan konsep OOP (Object-Oriented Programming) dan modular. Penggunaan OOP terlihat pada penggunaan kelas seperti 'product', 'cart' dan 'cashier', yang masing-masing memiliki sebuah atribut dan metode yang terpisah. Selain OOP, kode di atas juga menggunakan konsep Modular yang dimana berfungsi untuk memisahkan fungsi-fungsi terkait ke dalam kelas yang berbeda, sehingga dapat memudahkan pengelolaan dan pemeliharaan sebuah kode. 
+1. Kelas 'Product' Digunakan untuk merepresentasikan produk yang dijual di toko. Dan memiliki atribut dengan isi :
+'code', 'name', 'price', dan 'stock'
+2. Kelas 'Cart' memiliki fungsi menjelaskan mengenai keranjang belanja yang menyimpan produk yang telah dipilih pengguna. Kelas ini memiliki beberapa metode untuk mengelola produk dalam keranjang : konstruktor ('items') , metode ('add_to_cart', 'remove_from_cart_', 'view_cart', dan 'calculate_total')
+3. Kelas 'Cashier' bertanggung jawab agar proses checkout dan manajemen transaksi dapat berjalan lancar. 
 
 
 
