@@ -1,5 +1,8 @@
 # UAS
 
+# Link Project Youtube 
+https://youtu.be/MVoyvjN9bJI?si=PAjcw-x0U7wV-yoD 
+
 # Tugas UAS Bahasa Pemrograman
 Buatlah program sederhana dengan ketentuan:
 1. Program harus dibuat dengan konsep modular dan oop (pisahkan class data, class view, dan class process)
